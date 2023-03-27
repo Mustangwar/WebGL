@@ -1,0 +1,11 @@
+Compte rendu de WebGL
+(Jean Rebora)
+
+
+
+J’ai trouvé qu'il manquait d’explications sur la mise en place de Three.js. Le tutoriel dit juste de l’importer mais ce n’est pas très clair comment le faire et comment faire le lien entre le téléchargement de three.js et son utilisation dans le fichier. Heureusement, j’ai de l'expérience en développement web donc j’ai utilisé NodeJs et surtout npm, le package manager de Node pour installer Three et ensuite avec Vite j’ai initialisé un projet pour tester. De la même manière je n’ai pas l’impression que ce soit très bien explique comment lier les fichiers scss et les fichiers html dans le tutoriel. De la même manière, ça n'a pas été très bloquant mais j’ai trouvé que la mise en place aurait eu besoin d’un peu plus d’explications.
+Ayant déjà travaillé dans le développement web (en deuxième année et en césure), toute la partie sur le css, html, js n'étaient pas très nouveaux pour moi donc assez faciles à utiliser. Je suis assez familier avec les joies de débugger du css donc je n'étais pas pris au dépourvu. 
+Comme suggestion, on pourrait essayer de voir si le tutoriel est adaptable au Typescript vu qu’il est de plus en plus utilisé et moins propice aux erreurs par rapport au Javascript. Je partage ce site que j’ai trouvé qui semble faire un tutoriel joint de Three et de Typescript (https://sbcode.net/threejs/).
+Pour la partie graphique j’ai trouvé que ça ressemblait à la logique d’OpenGL par exemple donc que c'était assez simple a suivre également. J’ai suivi le tutoriel sur SceneGraph et j’ai donc fait l’exemple du système solaire.
+
+
